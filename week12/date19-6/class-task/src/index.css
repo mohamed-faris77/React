@@ -1,0 +1,18 @@
+.dashboard {
+  background-image: linear-gradient(to right, rgb(67, 67, 244), pink, violet);
+  padding: 5px;
+  text-align: center;
+  width: 95%;
+  border-radius: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading {
+  color: violet;
+  text-align: center;
+  margin: 40px;
+  font-style: italic;
+}
