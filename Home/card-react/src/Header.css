@@ -1,0 +1,23 @@
+.nav-bar{
+  display: flex;
+  flex-direction: column;
+}
+nav {
+  display: flex; /* Makes <h1> and <ul> flex items */
+  justify-content: space-between; /* Pushes them to opposite ends */
+  align-items: center; /* Vertically aligns them in the middle */
+  padding: 1rem 2rem; /* Adds some spacing */
+  background-color: #f8f9fa; /* A light background for visibility */
+}
+.nav-main{
+  display: flex; /* Makes the <li> items flex items */
+  list-style-type: none; /* Removes the bullet points */
+  margin: 0;
+  padding: 0;
+  gap: 1.5rem; /* Creates space between the list items */
+}
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,29 @@
+.WholeContent{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Container {
+  width: 30%;
+  margin: 10px;
+  height: max-content;
+  border: solid rgb(0, 0, 0) 1px;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  height: 500px;
+  object-fit: cover;
+  padding: 10px;
+  border-radius: 20px;
+}
+body{
+  display: flex;
+  flex-direction: row;
+}
+
