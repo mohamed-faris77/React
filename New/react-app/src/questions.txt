@@ -1,0 +1,5 @@
+1. Create a form with fields: username and password. Use useState to track and display entered values.
+2. Build a component that fetches user data from an API (e.g., https://jsonplaceholder.typicode.com/users) when the component is mounted Display the list of users.
+3. . Use useState to toggle the visibility of a paragraph when a button is clicked (e.g.,"Show Details" / "Hide Details").
+4. Create a button that changes the background color of a div between red and green using useState
+5. Create an input field. As the user types, update the document.title to match the input value using useEffect.
