@@ -6,6 +6,8 @@ import CounterAdd1 from './CounterAdd1'
 import CounterAddnum from './CounterAddnum'
 import Cnter from './Cnter'
 import CharCounter from './CharCounter'
+import RegisterForm from './RegisterForm'
+import SimpleFormValidation from './SimpleFormValidation'
 
 const App = () => {
   return (
@@ -16,8 +18,10 @@ const App = () => {
       {/* <ProductList/> */}
       {/* <CounterAdd1/>
       <CounterAddnum/> */}
-      <Cnter/>
-      <CharCounter/>
+      {/* <Cnter/>
+      <CharCounter/> */}
+      {/* <RegisterForm/> */}
+      <SimpleFormValidation/>
     </div>
   )
 }
