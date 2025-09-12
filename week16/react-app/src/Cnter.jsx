@@ -9,6 +9,7 @@ const increment = () => {
 }
 const decrement = () => {
   if(count.length>1){
+    //slice
     setCount(count.slice(0,-1))
   }
 }
