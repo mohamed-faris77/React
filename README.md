@@ -22,7 +22,7 @@ Some of the concepts and exercises included in this repo:
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code, npm  
+- **Tools:** Git, GitHub 
 
 ---
 
