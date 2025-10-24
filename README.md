@@ -29,7 +29,7 @@ Some of the concepts and exercises included in this repo:
 ## 🎯 Purpose
 
 This repository is not a finished project but a **learning playground**.  
-It reflects my progress in mastering React and will keep evolving as I learn advanced concepts like **Context API, Redux, and MERN stack integration**.
+It reflects my progress in mastering React and will keep evolving as I learn advanced concepts like **Context API, and MERN stack integration**.
 
 ---
 ## 🤝 Connect with Me
